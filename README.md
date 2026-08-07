@@ -42,11 +42,9 @@ anmol@vips:~$ _
   an isometric 3D contribution graph (yoshi389111/github-profile-3d-contrib
   is the standard tool for this — see setup note below).
 -->
-<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/profile-3d-contrib/grass/anmolgarg8.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
-
-> **Setup required** — this image won't render until you add the workflow below. I'm recalling this tool's exact output filenames from training data and can't verify them live (no web access in this chat), so before finalizing, check **yoshi389111/github-profile-3d-contrib** on GitHub directly for the current exact output path — it may differ slightly from what's referenced above.
 
 <br>
 
