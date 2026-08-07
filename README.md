@@ -1,10 +1,12 @@
 <div align="center">
 
 <h1>
-  <img src="https://img.shields.io/badge/ANMOL_GARG-000000?style=for-the-badge&labelColor=6366F1&color=000000"/>
+<a href="https://github.com/AnmolGarg8">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=80&lines=ANMOL+GARG" alt="Anmol Garg"/>
+</a>
 </h1>
 
-<h3>AI/ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; National Finalist, India Innovates 2026</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Engineer+%C2%B7+Systems+Builder;National+Finalist+%E2%80%94+India+Innovates+2026;Shipping+LLM+%2B+RAG+pipelines+that+ship;Software+Engineer+Intern+%40+7rd.ai" alt="Typing SVG"/>
 
 ```bash
 anmol@vips:~$ whoami
