@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anmol%20Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
-<p>
-<img src="https://img.shields.io/badge/🏅_India_Innovates_2026-National_Finalist-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/🥇_Samsung_Solve_2025-Top_10_%2F_20,000+_teams-FF6B35?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/🌐_Google_Student_Ambassador-2026-4285F4?style=for-the-badge&labelColor=1a1a2e"/>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Building+autonomous+systems+that+ship;LLM+%2B+RAG+pipelines+%E2%80%A2+Full-stack+AI;Software+Engineer+Intern+%40+7rd.ai;Open+to+AI%2FML+%26+Software+Engineering+roles)](https://git.io/typing-svg)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  anmol@vips:~$ whoami                                        │
+│  Anmol Garg — AI/ML Engineer & Systems Builder                │
+│                                                                │
+│  anmol@vips:~$ cat currently.log                              │
+│  > Software Engineer Intern @ 7rd.ai (drone defense platform) │
+│  > Shipping LLM + RAG pipelines, autonomous agents, full-stack│
+│                                                                │
+│  anmol@vips:~$ ./run --achievements                           │
+│  ✓ India Innovates 2026 — National Finalist                   │
+│  ✓ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams   │
+│  ✓ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)│
+│                                                                │
+│  anmol@vips:~$ _                                               │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <p>
 <a href="https://www.linkedin.com/in/anmol-garg2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -165,8 +173,8 @@ Dual-sensor monitor (acoustic + CO₂) flagging deterioration 2–4 hrs before c
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=jupyter+notebook"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br>
 
