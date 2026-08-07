@@ -131,7 +131,7 @@ ESP32 IoT system digitizing 1,000+ daily cash transactions from shopkeeper ledge
 </td>
 <td width="50%" valign="top">
 
-### 🫁 [PulmoCare](https://github.com/AnmolGarg8/Pulmocare)
+### 🫁 [PulmoWarn](https://github.com/AnmolGarg8/Pulmocare)
 **Respiratory Deterioration Monitor**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -200,16 +200,6 @@ Dual-sensor monitor (acoustic + CO₂) flagging deterioration 2–4 hrs before c
 <img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-> **If the two cards above still show as broken:** the streak-stats card above (demolab.com) is a separate service from the stats/top-langs cards (vercel.app) — if only the vercel.app ones fail while streak-stats works, that confirms the public `github-readme-stats.vercel.app` instance itself is rate-limited or down, not a bug in this file. That public instance has a well-documented history of outages since every GitHub profile on the platform hits the same free endpoint.
->
-> **Permanent fix — self-host your own instance (~5 minutes, free):**
-> 1. Go to **github.com/anuraghazra/github-readme-stats**
-> 2. Click the **"Deploy on Vercel"** button in that repo's README
-> 3. Vercel will fork the repo to your account and give you your own private URL (e.g. `your-project-name.vercel.app`)
-> 4. Replace `github-readme-stats.vercel.app` in both image URLs above with your new personal domain
->
-> This gives you a dedicated endpoint no one else's traffic can throttle — the actual permanent solution, not a workaround.
 
 <br>
 
