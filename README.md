@@ -1,21 +1,25 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  anmol@vips:~$ whoami                                        │
-│  Anmol Garg — AI/ML Engineer & Systems Builder                │
-│                                                                │
-│  anmol@vips:~$ cat currently.log                              │
-│  > Software Engineer Intern @ 7rd.ai (drone defense platform) │
-│  > Shipping LLM + RAG pipelines, autonomous agents, full-stack│
-│                                                                │
-│  anmol@vips:~$ ./run --achievements                           │
-│  ✓ India Innovates 2026 — National Finalist                   │
-│  ✓ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams   │
-│  ✓ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)│
-│                                                                │
-│  anmol@vips:~$ _                                               │
-└──────────────────────────────────────────────────────────────┘
+<h1>
+  <img src="https://img.shields.io/badge/ANMOL_GARG-000000?style=for-the-badge&labelColor=6366F1&color=000000"/>
+</h1>
+
+<h3>AI/ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; National Finalist, India Innovates 2026</h3>
+
+```bash
+anmol@vips:~$ whoami
+> Anmol Garg — AI/ML Engineer & Systems Builder
+
+anmol@vips:~$ cat currently.log
+> Software Engineer Intern @ 7rd.ai (autonomous drone defense platform)
+> Shipping LLM + RAG pipelines, autonomous agents, full-stack systems
+
+anmol@vips:~$ ./run --achievements
+✓ India Innovates 2026 — National Finalist
+✓ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams
+✓ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)
+
+anmol@vips:~$ _
 ```
 
 <p>
@@ -26,6 +30,23 @@
 </p>
 
 </div>
+
+<br>
+
+## 🧊 Contribution Graph (3D)
+
+<div align="center">
+
+<!--
+  Renders once you add a GitHub Action to this repo that generates
+  an isometric 3D contribution graph (yoshi389111/github-profile-3d-contrib
+  is the standard tool for this — see setup note below).
+-->
+<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/profile-3d-contrib/grass/anmolgarg8.svg" width="100%"/>
+
+</div>
+
+> **Setup required** — this image won't render until you add the workflow below. I'm recalling this tool's exact output filenames from training data and can't verify them live (no web access in this chat), so before finalizing, check **yoshi389111/github-profile-3d-contrib** on GitHub directly for the current exact output path — it may differ slightly from what's referenced above.
 
 <br>
 
@@ -181,6 +202,16 @@ Dual-sensor monitor (acoustic + CO₂) flagging deterioration 2–4 hrs before c
 <img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+> **If the two cards above still show as broken:** the streak-stats card above (demolab.com) is a separate service from the stats/top-langs cards (vercel.app) — if only the vercel.app ones fail while streak-stats works, that confirms the public `github-readme-stats.vercel.app` instance itself is rate-limited or down, not a bug in this file. That public instance has a well-documented history of outages since every GitHub profile on the platform hits the same free endpoint.
+>
+> **Permanent fix — self-host your own instance (~5 minutes, free):**
+> 1. Go to **github.com/anuraghazra/github-readme-stats**
+> 2. Click the **"Deploy on Vercel"** button in that repo's README
+> 3. Vercel will fork the repo to your account and give you your own private URL (e.g. `your-project-name.vercel.app`)
+> 4. Replace `github-readme-stats.vercel.app` in both image URLs above with your new personal domain
+>
+> This gives you a dedicated endpoint no one else's traffic can throttle — the actual permanent solution, not a workaround.
 
 <br>
 
