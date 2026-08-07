@@ -133,7 +133,7 @@ ESP32 IoT system digitizing 1,000+ daily cash transactions from shopkeeper ledge
 </td>
 <td width="50%" valign="top">
 
-### 🫁 [PulmoWarn](https://github.com/AnmolGarg8/Pulmocare)
+### 🫁 [PulmoWarn](https://github.com/AnmolGarg8/Pulmowarn)
 **Respiratory Deterioration Monitor**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
