@@ -8,20 +8,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Engineer+%C2%B7+Systems+Builder;National+Finalist+%E2%80%94+India+Innovates+2026;Shipping+LLM+%2B+RAG+pipelines+that+ship;Software+Engineer+Intern+%40+7rd.ai" alt="Typing SVG"/>
 
-```bash
-anmol@vips:~$ whoami
-> Anmol Garg — AI/ML Engineer & Systems Builder
+```diff
+--- a/anmol_garg.profile
++++ b/anmol_garg.profile
+@@ -1,8 +1,8 @@
+- role: undeclared
++ role: Software Engineer Intern @ 7rd.ai (autonomous drone defense platform)
+- shipping: nothing yet
++ shipping: LLM + RAG pipelines · autonomous agents · full-stack systems
+- status: exploring options
++ status: open to AI/ML & Software Engineering internships
 
-anmol@vips:~$ cat currently.log
-> Software Engineer Intern @ 7rd.ai (autonomous drone defense platform)
-> Shipping LLM + RAG pipelines, autonomous agents, full-stack systems
-
-anmol@vips:~$ ./run --achievements
-✓ India Innovates 2026 — National Finalist
-✓ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams
-✓ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)
-
-anmol@vips:~$ _
++ India Innovates 2026 — National Finalist
++ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams
++ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)
 ```
 
 <p>
