@@ -75,7 +75,7 @@ open_to:     AI/ML Internships · Software Engineering Internships · Research c
 | 🏅 | **India Innovates 2026** — National Finalist, AIRAVAT XDR |
 | 🥇 | **Samsung Solve for Tomorrow 2025** — Top 10 National, 20,000+ competing teams |
 | 🥇 | **Supernova Hackathon**, GL Bajaj 2025 — 1st Place |
-| 🌐 | **Google Gemini Student Ambassador 2026** — 1 of ~50 selected nationally |
+| 🌐 | **Google Student Ambassador 2026** — 1 of ~50 selected nationally |
 
 </div>
 
