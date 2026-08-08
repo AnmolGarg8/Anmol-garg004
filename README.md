@@ -21,7 +21,7 @@
 
 + India Innovates 2026 — National Finalist
 + Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams
-+ Google Gemini Student Ambassador 2026 (1 of ~50 nationally)
++ Google Student Ambassador 2026 (1 of ~50 nationally)
 ```
 
 <p>
@@ -60,7 +60,7 @@ deploying:   Autonomous AI agent on production VPS infra — 40% cut in manual o
 assigned:    Secure indigenous AIS prototype (Indian Navy)
              Integrated drone management & decision-support platform (Indian Army)
 education:   B.Tech AI & Data Science @ VIPS Delhi — 3rd Year · CGPA 8.67 · Class of 2028
-ambassador:  Google Gemini Student Ambassador 2026 (1 of ~50 nationally)
+ambassador:  Google Student Ambassador 2026 (1 of ~50 nationally)
 open_to:     AI/ML Internships · Software Engineering Internships · Research collabs
 ```
 
