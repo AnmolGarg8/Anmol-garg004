@@ -140,7 +140,6 @@ ESP32 IoT system digitizing 1,000+ daily cash transactions from shopkeeper ledge
 ![Canvas API](https://img.shields.io/badge/-Canvas_API-FF6B35?style=flat-square)
 
 Dual-sensor monitor (acoustic + CO₂) flagging deterioration 2–4 hrs before clinical crisis, built for 300M+ COPD patients globally.
-
 **Real-time Canvas 2D dashboard, zero external chart libraries · 3-tier alert escalation**
 
 </td>
