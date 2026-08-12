@@ -2,27 +2,24 @@ name: 3D Profile Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:       # lets you also trigger it manually from the Actions tab
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: build
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate 3D contribution graph
+      - name: generate-github-3d-contribution-graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: AnmolGarg8
+        with:
+          username: AnmolGarg8
 
-      - name: Commit and push the generated graph
+      - name: commit-and-push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update 3D contribution graph"
           branch: output
-          create_branch: true
+          commit_message: "Update 3D contribution graph"
+          push_options: '--force'
