@@ -14,8 +14,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: AnmolGarg8
+          USERNAME: AnmolGarg8
 
       - name: commit-and-push
         uses: stefanzweifel/git-auto-commit-action@v5
