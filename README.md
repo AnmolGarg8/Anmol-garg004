@@ -35,21 +35,6 @@
 
 <br>
 
-## 🧊 Contribution Graph (3D)
-
-<div align="center">
-
-<!--
-  Renders once you add a GitHub Action to this repo that generates
-  an isometric 3D contribution graph (yoshi389111/github-profile-3d-contrib
-  is the standard tool for this — see setup note below).
--->
-<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
-<br>
-
 ## ⚡ Currently
 
 ```yaml
