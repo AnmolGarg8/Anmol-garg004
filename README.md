@@ -1,210 +1,413 @@
 <div align="center">
 
-<h1>
 <a href="https://github.com/AnmolGarg8">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=80&lines=ANMOL+GARG" alt="Anmol Garg"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=65&lines=ANMOL+GARG;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Anmol Garg"/>
 </a>
-</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Engineer+%C2%B7+Systems+Builder;National+Finalist+%E2%80%94+India+Innovates+2026;Shipping+LLM+%2B+RAG+pipelines+that+ship;Software+Engineer+Intern+%40+7rd.ai" alt="Typing SVG"/>
+<br>
 
-```diff
---- a/anmol_garg.profile
-+++ b/anmol_garg.profile
-@@ -1,8 +1,8 @@
-- role: undeclared
-+ role: Software Engineer Intern @ 7rd.ai (autonomous drone defense platform)
-- shipping: nothing yet
-+ shipping: LLM + RAG pipelines · autonomous agents · full-stack systems
-- status: exploring options
-+ status: open to AI/ML & Software Engineering internships
+<a href="https://www.linkedin.com/in/anmol-garg2005">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anmolgarg1605@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/anmolgarg8">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
+</a>
+<a href="https://www.airavatxdr.in/">
+<img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
+</a>
 
-+ India Innovates 2026 — National Finalist
-+ Samsung Solve for Tomorrow 2025 — Top 10 / 20,000+ teams
-+ Google Student Ambassador 2026 (1 of ~50 nationally)
-```
+<br><br>
 
-<p>
-<a href="https://www.linkedin.com/in/anmol-garg2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anmolgarg1605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/anmolgarg8"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.airavatxdr.in/"><img src="https://img.shields.io/badge/AIRAVAT_XDR-Live_Demo-success?style=for-the-badge"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=AnmolGarg8&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
 
 <br>
 
-## ⚡ Currently
+---
 
-```yaml
-role:        Software Engineer Intern @ 7rd.ai (Seven Rounds Defender)
-building:    Windows native ground control app (Electron + React + TypeScript)
-             for an autonomous drone defense platform — Vision AI + EW-resilient nav
-deploying:   Autonomous AI agent on production VPS infra — 40% cut in manual ops
-assigned:    Secure indigenous AIS prototype (Indian Navy)
-             Integrated drone management & decision-support platform (Indian Army)
-education:   B.Tech AI & Data Science @ VIPS Delhi — 3rd Year · CGPA 8.67 · Class of 2028
-ambassador:  Google Student Ambassador 2026 (1 of ~50 nationally)
-open_to:     AI/ML Internships · Software Engineering Internships · Research collabs
+## 👋 About Me
+
+I'm **Anmol Garg**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ 7rd.ai**.
+
+I build systems at the intersection of **AI/ML, LLMs, backend engineering, and real-world products**.
+
+Currently working on:
+
+* 🛰️ Autonomous drone-defense systems
+* 🧠 LLM + RAG pipelines
+* 🤖 Production AI agents
+* ⚙️ Full-stack systems and developer infrastructure
+* 🔬 Applied AI/ML for real-world problems
+
+> **I don't just experiment with AI — I build systems that ship.**
+
+---
+
+## 🚀 Currently Building
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                         CURRENT FOCUS                            │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  LLM Systems        →  RAG · Agents · AI Pipelines              │
+│  AI/ML              →  NLP · Anomaly Detection · Vision AI     │
+│  Backend            →  FastAPI · Python · Production APIs      │
+│  Full-Stack         →  React · Next.js · Electron · TypeScript │
+│  Systems            →  Linux · Docker · AWS · Git              │
+│  Hardware           →  ESP32 · Embedded C/C++                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+### Software Engineer Intern — 7rd.ai
 
-## 🏆 Achievements
+Working on an autonomous drone-defense platform involving:
+
+* Windows-native ground control software
+* Electron + React + TypeScript
+* Vision AI
+* Autonomous navigation
+* Electronic-warfare-resilient systems
+* AI-powered operational tooling
+
+Also contributing to production AI infrastructure, including an autonomous agent deployed on VPS infrastructure that reduced manual operational work by approximately **40%**.
+
+---
+
+# 🏆 Recognition
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🏅 | **India Innovates 2026** — National Finalist, AIRAVAT XDR |
-| 🥇 | **Samsung Solve for Tomorrow 2025** — Top 10 National, 20,000+ competing teams |
-| 🥇 | **Supernova Hackathon**, GL Bajaj 2025 — 1st Place |
-| 🌐 | **Google Student Ambassador 2026** — 1 of ~50 selected nationally |
+| Achievement                                |         Result         |
+| :----------------------------------------- | :--------------------: |
+| 🇮🇳 **India Innovates 2026**              |    National Finalist   |
+| 🚀 **Samsung Solve for Tomorrow 2025**     | Top 10 / 20,000+ teams |
+| 🥇 **Supernova Hackathon — GL Bajaj 2025** |        1st Place       |
+| 🌐 **Google Student Ambassador 2026**      |   1 of ~50 nationally  |
 
 </div>
 
-<br>
+---
 
-## 🚀 Featured Builds
+# 🧩 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔐 [AIRAVAT XDR](https://github.com/Chaitanyasethi1/XDR_hack)
-**Autonomous AI Cyber Defense Platform**
+## 🔐 AIRAVAT XDR
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### Autonomous AI Cyber Defense Platform
 
-Isolation Forest anomaly detection + NLP phishing classifier, fused into one real-time risk-scoring engine. Built in a 4-member team using agile sprints.
+**National Finalist — India Innovates 2026**
 
-**Sub-2s response latency · <5% false-positive rate**
-National Finalist, India Innovates 2026 · [Live demo ↗](https://www.airavatxdr.in/)
+Real-time cyber-defense platform combining:
+
+* Isolation Forest anomaly detection
+* NLP phishing classification
+* Risk-score fusion
+* FastAPI backend
+* React dashboard
+
+**Impact**
+
+`<2s` response latency
+`<5%` reported false-positive rate
+
+**Stack**
+
+`Python` `FastAPI` `React` `Scikit-learn` `NLP`
+
+[Repository →](https://github.com/Chaitanyasethi1/XDR_hack)
+[Live System →](https://www.airavatxdr.in/)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 [SAMARTH-AI](https://github.com/AnmolGarg8/AiKOSH)
-**NLP MSME Classification Platform**
+## 🤖 SAMARTH-AI
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### Government Taxonomy Classification
 
-Full-stack classifier auto-mapping plain-text product descriptions to 500+ government taxonomy categories.
+Full-stack NLP system mapping natural-language product descriptions to **500+ government taxonomy categories**.
 
-**80% accuracy · 70% effort reduction**
-Processing time cut from 10+ min to under 1 second per entry
+**Impact**
+
+`80%` classification accuracy
+`70%` reduction in manual effort
+`10+ min → <1 sec` processing time
+
+**Stack**
+
+`Python` `FastAPI` `React` `NLP` `ML`
+
+[Repository →](https://github.com/AnmolGarg8/AiKOSH)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 📒 [NoteNetra](https://github.com/AnmolGarg8/Note)
-**Offline IoT Cash-Tracking System**
+## 📒 NoteNetra
 
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Offline IoT Cash Tracking
 
-ESP32 IoT system digitizing 1,000+ daily cash transactions from shopkeeper ledgers into formal credit histories — validated with real shopkeepers.
+ESP32-powered system designed to digitize informal cash transactions and convert shopkeeper ledger activity into structured credit data.
 
-**Top 10 National, Samsung Solve for Tomorrow 2025**
+Validated with real shopkeepers.
+
+**Impact**
+
+`1,000+` daily cash transactions targeted
+
+**Recognition**
+
+Top 10 — Samsung Solve for Tomorrow 2025
+
+**Stack**
+
+`ESP32` `C++` `Python` `IoT`
+
+[Repository →](https://github.com/AnmolGarg8/Note)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🫁 [PulmoWarn](https://github.com/AnmolGarg8/Pulmowarn)
-**Respiratory Deterioration Monitor**
+## 🫁 PulmoWarn
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas API](https://img.shields.io/badge/-Canvas_API-FF6B35?style=flat-square)
+### Respiratory Monitoring System
 
-Dual-sensor monitor (acoustic + CO₂) flagging deterioration 2–4 hrs before clinical crisis, built for 300M+ COPD patients globally.
+Dual-sensor monitoring concept combining acoustic and CO₂ signals to detect potential respiratory deterioration.
 
-**Real-time Canvas 2D dashboard, zero external chart libraries · 3-tier alert escalation**
+Built around:
+
+* Real-time sensor processing
+* Canvas-based visualization
+* Multi-level alert escalation
+* Zero external chart libraries
+
+**Stack**
+
+`JavaScript` `Canvas API` `Sensors`
+
+[Repository →](https://github.com/AnmolGarg8/Pulmowarn)
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## 🛠️ Tech Stack
+# 🧠 Engineering Interests
+
+I'm particularly interested in the layer **between an AI model and a production system**.
+
+```text
+                    ┌──────────────────────┐
+                    │       USER / API     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    AI APPLICATION    │
+                    │                      │
+                    │  LLM · RAG · Agents  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    SYSTEMS LAYER     │
+                    │                      │
+                    │ APIs · Workers · DB  │
+                    │ Docker · Linux · AWS │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      REAL WORLD      │
+                    │                      │
+                    │ Users · Devices      │
+                    │ Sensors · Operations │
+                    └──────────────────────┘
+```
+
+### Areas I'm actively exploring
+
+* LLM application architecture
+* Retrieval-Augmented Generation
+* Autonomous AI agents
+* AI evaluation and reliability
+* NLP systems
+* Computer vision
+* Production APIs
+* Cloud infrastructure
+* Distributed systems
+* Edge AI
+* Embedded systems
+* Developer tooling
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+### AI / ML / LLM
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111111"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+### Full-Stack & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+### Hardware / IoT
+
+<p>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-**AI / ML / LLM**
-<br>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-**Full-Stack & Infra**
-<br>
-<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-**Hardware / IoT**
-<br>
-<img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Embedded_C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true"/>
+**Building consistently. Learning continuously. Shipping deliberately.**
 
 </div>
 
-<br>
+---
+
+# 📚 Learning in 2026
+
+```text
+2026
+ │
+ ├── LLM Engineering
+ │   ├── RAG architectures
+ │   ├── Agentic workflows
+ │   ├── Evaluation
+ │   └── Production AI
+ │
+ ├── Systems Engineering
+ │   ├── Linux
+ │   ├── Docker
+ │   ├── Cloud infrastructure
+ │   └── Distributed systems
+ │
+ └── Applied AI
+     ├── Computer Vision
+     ├── NLP
+     ├── Edge AI
+     └── Autonomous Systems
+```
+
+I want my GitHub to reflect **what I can build**, not simply what technologies I have touched.
+
+---
+
+# 💻 Competitive Programming
+
+**LeetCode:** [@anmolgarg8](https://leetcode.com/u/anmolgarg8)
+
+Currently strengthening:
+
+`Data Structures` · `Algorithms` · `Dynamic Programming` · `Graphs` · `Problem Solving`
+
+---
+
+# 🌐 Community
+
+### Google Student Ambassador — 2026
+
+Selected as **1 of approximately 50 students nationally**.
+
+Focused on learning, building, and helping other students explore technology and developer ecosystems.
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[✓] Ship production AI systems
+[✓] Work on autonomous systems
+[✓] Build and deploy LLM applications
+[✓] Reach national-level competitions
+[ ] Deepen systems & distributed engineering
+[ ] Contribute meaningfully to open source
+[ ] Publish technical work
+[ ] Build a useful AI product from 0 → 1
+```
+
+---
 
 <div align="center">
 
-### 📬 Let's build something
+## Let's build something meaningful.
 
-**Open to:** AI/ML Internships · Software Engineering Roles · Research Collaborations
+**AI/ML Internships · Software Engineering Internships · Research Collaborations**
 
-<a href="https://www.linkedin.com/in/anmol-garg2005"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anmolgarg1605@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=AnmolGarg8&style=for-the-badge&color=6366f1"/>
+<a href="https://www.linkedin.com/in/anmol-garg2005">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anmolgarg1605@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>AI systems • software engineering • autonomous systems</sub>
 
 <br><br>
 
 <i>"Don't just learn — build something real."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
