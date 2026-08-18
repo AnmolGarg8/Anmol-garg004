@@ -1,11 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/AnmolGarg8">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=65&lines=ANMOL+GARG;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Anmol Garg"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&height=70&lines=ANMOL+GARG;AI%2FML+ENGINEER+%C2%B7+SYSTEMS+BUILDER;LLM+%C2%B7+RAG+%C2%B7+AGENTS+%C2%B7+FULL-STACK" alt="Anmol Garg"/>
 </a>
 
 <br>
 
+<p>
 <a href="https://www.linkedin.com/in/anmol-garg2005">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -18,8 +19,9 @@
 <a href="https://www.airavatxdr.in/">
 <img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
 </a>
+</p>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AnmolGarg8&style=flat-square&color=6366f1" alt="Profile views"/>
 
@@ -40,7 +42,7 @@ Currently working on:
 * 🛰️ Autonomous drone-defense systems
 * 🧠 LLM + RAG pipelines
 * 🤖 Production AI agents
-* ⚙️ Full-stack systems and developer infrastructure
+* ⚙️ Full-stack systems and infrastructure
 * 🔬 Applied AI/ML for real-world problems
 
 > **I don't just experiment with AI — I build systems that ship.**
@@ -308,18 +310,51 @@ I'm particularly interested in the layer **between an AI model and a production 
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="950" alt="GitHub 3D Contribution Graph"/>
+
+<br><br>
+
+<b>Building consistently. Learning continuously. Shipping deliberately.</b>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+# 📈 Contribution Journey
 
-**Building consistently. Learning continuously. Shipping deliberately.**
-
-</div>
+```text
+2024
+ │
+ ├── Started building
+ ├── Programming fundamentals
+ └── First serious projects
+        │
+        ▼
+2025
+ │
+ ├── AI/ML projects
+ ├── Hackathons
+ ├── Samsung Solve for Tomorrow
+ ├── Supernova Hackathon — 1st Place
+ └── Real-world product experimentation
+        │
+        ▼
+2026
+ │
+ ├── Software Engineering Internship @ 7rd.ai
+ ├── India Innovates — National Finalist
+ ├── Google Student Ambassador
+ ├── LLM + RAG systems
+ ├── Autonomous AI agents
+ └── Production AI infrastructure
+        │
+        ▼
+     NEXT →
+     Open Source
+     Systems Engineering
+     Research
+     Production AI
+```
 
 ---
 
@@ -331,7 +366,7 @@ I'm particularly interested in the layer **between an AI model and a production 
  ├── LLM Engineering
  │   ├── RAG architectures
  │   ├── Agentic workflows
- │   ├── Evaluation
+ │   ├── AI evaluation
  │   └── Production AI
  │
  ├── Systems Engineering
@@ -378,6 +413,7 @@ Focused on learning, building, and helping other students explore technology and
 [✓] Work on autonomous systems
 [✓] Build and deploy LLM applications
 [✓] Reach national-level competitions
+
 [ ] Deepen systems & distributed engineering
 [ ] Contribute meaningfully to open source
 [ ] Publish technical work
@@ -409,5 +445,9 @@ Focused on learning, building, and helping other students explore technology and
 <br><br>
 
 <i>"Don't just learn — build something real."</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
