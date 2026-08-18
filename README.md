@@ -314,6 +314,12 @@ I'm particularly interested in the layer **between an AI model and a production 
 
 <br><br>
 
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<br><br>
+
 <b>Building consistently. Learning continuously. Shipping deliberately.</b>
 
 </div>
