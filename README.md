@@ -310,13 +310,17 @@ I'm particularly interested in the layer **between an AI model and a production 
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="950" alt="GitHub 3D Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"
+     width="950"
+     alt="GitHub 3D Contribution Graph"/>
 
 <br><br>
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="./profile/streak.svg"
+     width="495"
+     alt="GitHub Contribution Streak"/>
 
 <br><br>
 
