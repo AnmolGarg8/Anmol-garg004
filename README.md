@@ -31,7 +31,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm **Anmol Garg**, a 3rd-year **B.Tech AI & Data Science** student at VIPS Delhi and a **Software Engineer Intern @ 7rd.ai**.
 
