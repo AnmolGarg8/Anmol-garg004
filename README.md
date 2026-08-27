@@ -451,7 +451,6 @@ Focused on learning, building, and helping other students explore technology and
 <br><br>
 
 <sub>AI systems • software engineering • autonomous systems</sub>
-
 <br><br>
 
 <i>"Don't just learn — build something real."</i>
